@@ -5,14 +5,15 @@ This task takes any dataset (like student scores, sales data, etc.) and visualiz
 
 
 ## 🛠 Tools & Technologies
-   • Python
-   • Pandas
-   • Seaborn & Matplotlib
+  -  python
+  -  pandas
+  -  numpy
+  -  seaborn & matplotlib
 
 ## 📈 Key Analysis
-  • Load a dataset and select numeric features.
-  • Compute the correlation matrix to measure how variables move together (correlation ranges from -1 to +1).
-  • Plot a heatmap using Seaborn’s heatmap() to visualize these relationships with color intensities indicating strength and direction of correlations. 
+  -  Load a dataset and select numeric features.
+  -  Compute the correlation matrix to measure how variables move together (correlation ranges from -1 to +1).
+  -  Plot a heatmap using Seaborn’s heatmap() to visualize these relationships with color intensities indicating strength and direction of correlations. 
 
 ## 📂 Dataset
 Any structured dataset with numerical columns (e.g., student scores, sales figures, health metrics).
